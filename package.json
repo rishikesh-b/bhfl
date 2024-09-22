@@ -1,0 +1,14 @@
+{
+  "name": "bfhl-api",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.0",
+    "file-type": "^19.5.0",
+    "multer": "^1.4.5-lts.1"
+  }
+}
